@@ -1,12 +1,12 @@
-<h2 align="left">Hello World! <img src="./assets/hi.gif" height="30" alt=" waving hand"  /></h2>
-
-###
-
-<p align="left">Welcome to my profile! I'm an adaptable problem solver, fast learner, and Fullstack Developer. I am currently interning @Alfamart, and have previously built maintenance management systems, developed community-focused web platforms, and created automation tools. Thanks for visiting and I'd love to connect!</p>
+<h2 align="left">Hello World! <img src="./assets/hi.gif" width="20"/></h2>
 
 ###
 
 <img align="right" height="150" src="./assets/profile.gif"  />
+
+###
+
+<p align="left">Welcome to my profile! I'm an adaptable problem solver, fast learner, and Fullstack Developer. I am currently interning @Alfamart, and have previously built maintenance management systems, developed community-focused web platforms, and created automation tools. Thanks for visiting and I'd love to connect!</p>
 
 ###
 
@@ -56,8 +56,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4mayz/m4mayz/output/pacman-contribution-graph-dark.svg">
