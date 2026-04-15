@@ -7,7 +7,10 @@
     <source media="(max-width: 900px)" srcset="./assets/profile.gif" width="110" height="110" />
     <img align="right" width="150" height="150" src="./assets/profile.gif" alt="profile gif" />
   </picture>
-  <img align="right" width="32" height="150" src="./assets/spacer.svg" alt="" />
+  <picture>
+    <source media="(max-width: 900px)" srcset="./assets/spacer-tablet.svg" />
+    <img align="right" src="./assets/spacer.svg" alt="" />
+  </picture>
 
 Welcome to my profile! I'm an adaptable problem solver, fast learner, and Fullstack Developer. I am currently interning @Alfamart, and have previously built maintenance management systems, developed community-focused web platforms, and created automation tools. Thanks for visiting and I'd love to connect!
 
