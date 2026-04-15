@@ -2,7 +2,7 @@
 
 ###
 
-<img style="margin: 0 0 20px 20px; border-radius: 10%;"  align="right" height="150" width="150" src="./assets/profile.gif"  />
+<img align="right" height="150" width="150" hspace="20" vspace="10" src="./assets/profile.gif" alt="profile gif" />
 
 ###
 
