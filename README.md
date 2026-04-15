@@ -3,9 +3,11 @@
 ###
 
 <p align="left">
-  <img align="right" height="150" width="48" src="./assets/spacer.svg" alt="" />
   <img align="right" height="150" width="150" src="./assets/profile.gif" alt="profile gif" />
-  Welcome to my profile! I'm an adaptable problem solver, fast learner, and Fullstack Developer. I am currently interning @Alfamart, and have previously built maintenance management systems, developed community-focused web platforms, and created automation tools. Thanks for visiting and I'd love to connect!
+  <img align="right" height="150" width="48" src="./assets/spacer.svg" alt="" />
+
+Welcome to my profile! I'm an adaptable problem solver, fast learner, and Fullstack Developer. I am currently interning @Alfamart, and have previously built maintenance management systems, developed community-focused web platforms, and created automation tools. Thanks for visiting and I'd love to connect!
+
 </p>
 
 ###
