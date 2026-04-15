@@ -1,4 +1,4 @@
-<h2 align="left">Hello World!</h2>
+<h2 align="left">Hello World! <img src="./assets/hi.gif" height="30" alt=" waving hand"  /></h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/00/01/ef/0001ef6763f631f27efc99c3ebbaa1f8.gif"  />
+<img align="right" height="150" src="./assets/profile.gif"  />
 
 ###
 
