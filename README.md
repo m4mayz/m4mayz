@@ -2,16 +2,10 @@
 
 ###
 
-<table>
-  <tr>
-    <td valign="top">
-      <p align="left">Welcome to my profile! I'm an adaptable problem solver, fast learner, and Fullstack Developer. I am currently interning @Alfamart, and have previously built maintenance management systems, developed community-focused web platforms, and created automation tools. Thanks for visiting and I'd love to connect!</p>
-    </td>
-    <td width="180" align="right" valign="top">
-      <img height="150" width="150" src="./assets/profile.gif" alt="profile gif" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img align="right" height="150" width="150" src="./assets/profile.gif" alt="profile gif" />
+  Welcome to my profile! I'm an adaptable problem solver, fast learner, and Fullstack Developer. I am currently interning @Alfamart, and have previously built maintenance management systems, developed community-focused web platforms, and created automation tools. Thanks for visiting and I'd love to connect!
+</p>
 
 ###
 
